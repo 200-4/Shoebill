@@ -1,0 +1,2 @@
+ok now give me a section that has a white background with the following paragraphs
+Ensure the user has ability to code these numbers such as Beneficiary Number,Swift code,MTN and Airtel
